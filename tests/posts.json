@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "メモのタイトル",
+      "body": "メモの本文",
+      "draft": false,
+      "url": "https://kray.docbase.io/posts/4",
+      "created_at": "2016-04-15T18:19:03+09:00",
+      "scope": "everyone",
+      "groups": [],
+      "tags": [
+        { "name": "日報"}
+      ],
+      "user": {
+        "id": 3,
+        "name": "user3",
+        "profile_image_url": "https://image.docbase.io/uploads/aaa.gif"
+      },
+      "comments": [
+        {
+          "id": 7,
+          "body": "コメント本文",
+          "created_at": "2016-05-13T17:07:18+09:00",
+          "user": {
+            "id": 2,
+            "name": "user2",
+            "profile_image_url": "https://image.docbase.io/uploads/aaa.gif"
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "previous_page": null,
+    "next_page": "https://api.docbase.io/teams/kray/posts?page=2&per_page=20",
+    "total": 39
+  }
+}
