@@ -7,7 +7,7 @@ Install
 
 .. code:: sh
 
-  pip install docbase
+  pip install docbase-client
 
 
 Usage
